@@ -1,0 +1,15 @@
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\bin\Debug\net6.0\Desafio1.exe
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\bin\Debug\net6.0\Desafio1.deps.json
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\bin\Debug\net6.0\Desafio1.runtimeconfig.json
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\bin\Debug\net6.0\Desafio1.dll
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\bin\Debug\net6.0\ref\Desafio1.dll
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\bin\Debug\net6.0\Desafio1.pdb
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\obj\Debug\net6.0\Desafio1.csproj.AssemblyReference.cache
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\obj\Debug\net6.0\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\obj\Debug\net6.0\Desafio1.AssemblyInfoInputs.cache
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\obj\Debug\net6.0\Desafio1.AssemblyInfo.cs
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\obj\Debug\net6.0\Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\obj\Debug\net6.0\Desafio1.dll
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\obj\Debug\net6.0\ref\Desafio1.dll
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\obj\Debug\net6.0\Desafio1.pdb
+C:\Users\roney\Documents\VSCode\C#\DesafioGFTStarter4\Desafio1\obj\Debug\net6.0\Desafio1.genruntimeconfig.cache
